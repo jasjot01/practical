@@ -229,7 +229,7 @@ diameter of circle is:12.000000
 circumference of circle:37.680000
 Area of circle:113.040001
 </code></pre>
-<h2 id="wap-to-find-area-and-volume-of-rectangle">10:WAP to find area and volume of rectangle</h2>
+<h2 id="wap-to-find-area-of-rectangle-and-volume-of-cuboid">10:WAP to find area of rectangle and volume of cuboid</h2>
 <pre><code>//find area and volume of rectangle
 #include&lt;stdio.h&gt;
 int main()
