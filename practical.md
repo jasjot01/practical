@@ -447,7 +447,7 @@ return 0;
 enter the operator to perform (+,-,*,%,/)=%
 12
 </code></pre>
-<h2 id="wap-to-print-a-patterns-of-calculator">16: WAP to print a patterns of calculator</h2>
+<h2 id="wap-to-print-a-pattern-of-calculator">16: WAP to print a pattern of calculator</h2>
 <pre><code>#include&lt;stdio.h&gt;
 int main()
 {
