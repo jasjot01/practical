@@ -242,7 +242,7 @@ int main()
  printf("\nEnter height of cuboid:");
  scanf("%d",&amp;h);
  printf("\nThe area of rectangle is:%d",l*b);
- printf("\nThe volume is :%d\n",l*b*h);
+ printf("\nThe volume of cuboid is :%d\n",l*b*h);
  return 0;
  }
 </code></pre>
