@@ -230,7 +230,7 @@ circumference of circle:37.680000
 Area of circle:113.040001
 </code></pre>
 <h2 id="wap-to-find-area-of-rectangle-and-volume-of-cuboid">10:WAP to find area of rectangle and volume of cuboid</h2>
-<pre><code>//find area and volume of rectangle
+<pre><code>//find area of rectangle and volume of cuboid
 #include&lt;stdio.h&gt;
 int main()
 {
@@ -239,7 +239,7 @@ int main()
  scanf("%d",&amp;l);
  printf("\nEnter breadth of rectangle:");
  scanf("%d",&amp;b);
- printf("\nEnter height of rectangle:");
+ printf("\nEnter height of cuboid:");
  scanf("%d",&amp;h);
  printf("\nThe area of rectangle is:%d",l*b);
  printf("\nThe volume is :%d\n",l*b*h);
@@ -251,10 +251,10 @@ int main()
 
 Enter breadth of rectangle:3 
 
-Enter height of rectangle:4
+Enter height of cuboid:4
 
 The area of rectangle is:12
-The volume is :48
+The volume of cuboid is :48
 </code></pre>
 <h2 id="wap-to-represent-a-table-of-user-input">11 .WAP to represent a table of user input</h2>
 <pre><code>#include&lt;stdio.h&gt;
